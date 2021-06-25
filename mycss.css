@@ -1,0 +1,30 @@
+@media (min-width: 100px) and (max-width: 767px)
+ {
+	header {
+		color: blue;
+		font-size: 40px;
+		text-align: center; 
+	}
+	h1 {
+		color: green; font-size: 30px;
+	}
+	#p1 {
+		background-color: yellow;
+		width: 200px;
+		height: 200px;
+		float: left;
+		font-size: 1em;
+	}
+	#p2 {
+		background-color: orange;
+		width: 200px;
+		height: 200px;
+		float: left;
+	}
+	#p3 {
+		background-color: blue;
+		width: 200px;
+		height: 200px;
+		float: left;
+	}
+}
